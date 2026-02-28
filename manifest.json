@@ -1,7 +1,7 @@
 {
-    "name": "我的PWA笔记",
-    "short_name": "笔记",
-    "start_url": "/",
+    "name": "BETAFPV Configurator V2",
+    "short_name": "Configurator",
+    "start_url": "/Configurator/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#3498db",
