@@ -1,7 +1,7 @@
 {
-    "name": "我的PWA笔记",
-    "short_name": "笔记",
-    "start_url": "/",
+    "name": "BETAFPV Configurator V2",
+    "short_name": "Configurator",
+    "start_url": "/Configurator/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#3498db",
@@ -9,12 +9,12 @@
 
     "icons": [
         {
-        "src": "icon-192x192.png",
+        "src": "/Configurator/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
         },
         {
-        "src": "icon-512x512.png",
+        "src": "/Configurator/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
         }
@@ -22,14 +22,14 @@
 
     "screenshots": [
         {
-        "src": "screenshot-desktop.png",
+        "src": "/Configurator/screenshot-desktop.png",
         "sizes": "662x521",
         "type": "image/png",
         "form_factor": "wide", 
         "label": "地面站主界面 - 任务规划"
         },
         {
-        "src": "screenshot-desktop_2.png",
+        "src": "/Configurator/screenshot-desktop_2.png",
         "sizes": "662x521",
         "type": "image/png",
         "label": "地面站主界面 - 实时监控"
